@@ -41,6 +41,8 @@ System.out.println(driver.getTitle());
 
 System.out.println(driver.getCurrentUrl());
 
+System.out.println(" new code to be added in git");
+
 driver.close();
 
 //driver.quit();
