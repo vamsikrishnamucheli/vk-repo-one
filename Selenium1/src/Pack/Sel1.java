@@ -44,7 +44,7 @@ System.out.println(driver.getCurrentUrl());
 System.out.println(" new code to be added in git");
 
 System.out.println(" new branch named develop in git");
-
+System.out.println(" new code to be added in git");
 
 driver.close();
 
